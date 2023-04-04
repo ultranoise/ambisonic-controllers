@@ -1,4 +1,4 @@
-# ambisonic-controllers
+# ambisonics-controllers
 A collection of tangible controllers for performing and composing spatialisation techniques with ambisonics
 
 Until the moment: 
