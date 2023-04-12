@@ -3,7 +3,7 @@ A collection of tangible controllers for performing and composing spatialisation
 
 Until the moment: 
 
-- A trackball
+- Trackball
 
 - Embodied Gestures
 
