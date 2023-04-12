@@ -23,6 +23,8 @@ Until the moment:
 
 - gametrak
 
+- spherical multitouch surface
+
 
 
 
