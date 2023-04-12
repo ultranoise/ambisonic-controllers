@@ -11,7 +11,13 @@ Until the moment:
 
 - Physical Modelling bounding objects
 
-- Circle with lever
+- Circles
+
+- Leap motion
+
+- Chaotic movement devices
+
+
 
 
 
