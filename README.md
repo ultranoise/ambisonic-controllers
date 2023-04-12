@@ -9,7 +9,7 @@ Until the moment:
 
 - Fuchteln interfaces (IMUs)
 
-- Physical Modelling bounding objects
+- Physical Modelling like in spatium or others
 
 - Circles
 
