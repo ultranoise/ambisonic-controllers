@@ -17,6 +17,10 @@ Until the moment:
 
 - Chaotic movement devices
 
+- Reactable
+
+- Juggling interfaces
+
 
 
 
