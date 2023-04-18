@@ -25,6 +25,8 @@ Until the moment:
 
 - spherical multitouch surface
 
+- sensel overlay
+
 
 
 
